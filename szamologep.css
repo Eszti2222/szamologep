@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+.muveletek, .szamok{
+    width: 100%;
+    padding: 3px;
+}
